@@ -1,0 +1,16 @@
+#mainPopup {
+    padding: 15px;
+    height: 40px;
+    width: 400px;
+    font-family: Helvetica, Ubuntu, Arial, sans-serif;
+}
+
+#text-input:focus {
+    outline: 0;
+}
+#text-input {
+      font-size: 14px;
+      margin: 2px;
+      height: 23px;
+      width: 70%;
+}
